@@ -1,7 +1,7 @@
-<h4>
+<h3>
     Hi there, I'm Stojan, also known as Dock
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h4>
+</h3>
 I'm a self taught coder for nearly 6 devoted years. I've also done couple of front-end and full-stack projects for local business clients. Currently employed in the non-tech industry where I act independently, but also work in small, medium and large teams often leading and training others while having a reputation of one of the best and most likeable guys to work with, which i'm determined to put to use and commit full time to position of a developer in JS/React stack.
 
 <div align="center" id="header">
