@@ -1,5 +1,5 @@
 <h3>
-    Hi there, I'm Stojan
+    Hi there, I'm Stojan, also known as Dock
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h3>
 I'm a self taught coder for nearly 6 devoted years. I've also done couple of front-end and full-stack projects for local business clients. Currently employed in the non-tech industry where I act independently, but also work in small, medium and large teams often leading and training others while having a reputation of one of the best and most likeable guys to work with, which i'm determined to put to use and commit full time to position of a developer in JS/React stack.
@@ -22,6 +22,7 @@ I'm a self taught coder for nearly 6 devoted years. I've also done couple of fro
 <a target="_blank"><img alt="CSS" src="https://img.shields.io/badge/CSS3-%2312100E?style=for-the-badge&logo=css3&logoColor=blue"/></a> 
 <a target="_blank"><img alt="SCSS / SASS" src="https://img.shields.io/badge/Sass-%2312100E?style=for-the-badge&logo=sass&logoColor=pink"/></a> 
 <a target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%2312100E?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a> 
+<a target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/TypeScript-%2312100E?style=for-the-badge&logo=typescript&logoColor=blue"/></a> 
 <a target="_blank"><img alt="React" src="https://img.shields.io/badge/React-%2312100E.svg?style=for-the-badge&logo=react&logoColor=61DAFB"/></a> 
 <a target="_blank"><img alt="Node" src="https://img.shields.io/badge/Node.js-%2312100E?style=for-the-badge&logo=node.js&logoColor=green"/></a> 
 <a target="_blank"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-%2312100E?style=for-the-badge"/></a> 
