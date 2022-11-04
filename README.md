@@ -2,7 +2,7 @@
     Hi there, I'm Stojan, also known as Doc
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h3>
-I'm a self-taught coder for nearly 6 devoted years. I've done several full-stack and front-end projects for local business clients. Currently employed in the non-tech industry where I act independently, as well as a part of a team, often leading and training others while having a reputation as one of the best and most likable guys to work with, which I'm determined to put to use and commit full time to the position of a developer in JS/React stack.
+A self-taught coder for the past 6 years. As a freelancer, I've done several full-stack and front-end projects for local business clients. I'm currently employed in the non-tech industry but am fully committed to switching careers to a full-time position as a web developer.
 
 <div align="center" id="header">
   <img src="https://media0.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=ecf05e47akf60basgwz8l8fkzgq8xk9ij56ugs3p05zq4vz1&rid=giphy.gif&ct=s" width="300"/>
