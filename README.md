@@ -1,8 +1,8 @@
 <h3>
-    Hi there, I'm Stojan, also known as Dock
+    Hi there, I'm Stojan, also known as Doc
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h3>
-I'm a self taught coder for nearly 6 devoted years. I've also done couple of front-end and full-stack projects for local business clients. Currently employed in the non-tech industry where I act independently, but also work in small, medium and large teams often leading and training others while having a reputation of one of the best and most likeable guys to work with, which i'm determined to put to use and commit full time to position of a developer in JS/React stack.
+I'm a self-taught coder for nearly 6 devoted years. I've done several full-stack and front-end projects for local business clients. Currently employed in the non-tech industry where I act independently, as well as a part of a team, often leading and training others while having a reputation as one of the best and most likable guys to work with, which I'm determined to put to use and commit full time to the position of a developer in JS/React stack.
 
 <div align="center" id="header">
   <img src="https://media0.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=ecf05e47akf60basgwz8l8fkzgq8xk9ij56ugs3p05zq4vz1&rid=giphy.gif&ct=s" width="300"/>
