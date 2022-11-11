@@ -1,8 +1,8 @@
 <h3>
-    Hi there, I'm Stojan, also known as Doc
+    Hi there, I'm Stojan, also known as Dock
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h3>
-A self-taught coder for the past 6 years. As a freelancer, I've done several full-stack and front-end projects for local business clients. I'm currently employed in the non-tech industry but am fully committed to switching careers to a full-time position as a web developer.
+I'm a self taught coder for nearly 6 devoted years. I've also done couple of front-end and full-stack projects for local business clients. Currently employed in the non-tech industry where I act independently, but also work in small, medium and large teams often leading and training others while having a reputation of one of the best and most likeable guys to work with, which i'm determined to put to use and commit full time to position of a developer in JS/React stack.
 
 <div align="center" id="header">
   <img src="https://media0.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=ecf05e47akf60basgwz8l8fkzgq8xk9ij56ugs3p05zq4vz1&rid=giphy.gif&ct=s" width="300"/>
@@ -30,5 +30,10 @@ A self-taught coder for the past 6 years. As a freelancer, I've done several ful
 <a target="_blank"><img alt="Jest" src="https://img.shields.io/badge/Jest-%2312100E?style=for-the-badge&logo=Jest&logoColor=red"/></a> 
 <a target="_blank"><img alt="Linux" src="https://img.shields.io/badge/Linux-%2312100E?style=for-the-badge&logo=linux&logoColor=yellow"/></a>
 
+
+
 <a href="https://www.codewars.com/users/Dok92"><img alt="Codewars" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/></a>
 </p>
+
+![GitHub Views](https://komarev.com/ghpvc/?username=Dok92&color=green&style=flat-square)
+
