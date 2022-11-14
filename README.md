@@ -1,5 +1,5 @@
 <h3>
-    Hi there, I'm Stojan, also known as Dock
+    Hi there, I'm Stojan, also known as Doc
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h3>
 A self-taught developer for the past 6 years. I've been freelancing past 2 years, creating several front-end and full-stack projects for local business clients. Currently employed in the non-tech industry where I act independently, but also as part of a team, often leading and training others while having a reputation as one of the best and most likable guys to work with, which I'm determined to put to use and commit full time to the position of a developer in JS/React stack.
