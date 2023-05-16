@@ -1,5 +1,5 @@
 <h3>
-    Hi there, I'm Stojan, also known as Doc
+    Hi there, I'm Stojan, also known as Dock
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h3>
 A self-taught developer for the past 6 years. I've been freelancing past 2 years, creating several front-end and full-stack projects for local business clients. Currently working as a Front-end enginer at <a target="_blank" href="https://decantera.dev/#home" />Decantera</a>
