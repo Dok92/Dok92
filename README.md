@@ -2,7 +2,7 @@
     Hi there, I'm Stojan, also known as Dock
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h3>
-A self-taught developer for the past 7 years. I've been freelancing past 2 years, creating a number of projects for local business clients. Currently working as a Front-end engineer at <a target="_blank" href="https://decantera.dev/#home" />Decantera</a>
+A self-taught developer for the past 8 years. I've been freelancing past 3 years, creating a number of projects for local business clients. Currently working as a Front-end engineer at <a target="_blank" href="https://decantera.dev/#home" />Decantera</a>
 
 <div align="center" id="header">
   <img src="https://media0.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=ecf05e47akf60basgwz8l8fkzgq8xk9ij56ugs3p05zq4vz1&rid=giphy.gif&ct=s" width="300"/>
