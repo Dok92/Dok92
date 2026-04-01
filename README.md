@@ -2,7 +2,7 @@
     Hi there, I'm Stojan, also known as Dock
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h3>
-A self-taught developer for the past 8 years. I've been freelancing past 3 years, creating a number of projects for local business clients. Currently working as a Front-end engineer at <a target="_blank" href="https://decantera.dev/#home" />Decantera</a>
+Through a decade of freelancing, I've created a large number of projects for local business clients, handling everything from Figma prototyping and UI design to full-stack development and Google Ads management. I’m not just a lone wolf, though; I spent a year with the team at <a target="_blank" href="https://decantera.dev/#home">Decantera</a> working on a complex, multinational fintech KYC platform.</a>
 
 <div align="center" id="header">
   <img src="https://media0.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=ecf05e47akf60basgwz8l8fkzgq8xk9ij56ugs3p05zq4vz1&rid=giphy.gif&ct=s" width="300"/>
